@@ -1,4 +1,4 @@
-# Adidas-US-Sales-Analysis
+# ADIDAS-US-SALES-ANALYSIS
 # PowerBi_Performance_dashboard
 
 Professional Power Bi Dashboard
